@@ -220,7 +220,7 @@ SOURCES += src/qt/bitcoin.cpp src/qt/bitcoingui.cpp \
     src/irc.cpp \
     src/checkpoints.cpp \
     src/addrman.cpp \
-    src/db.cpp \
+    src/bitcoin-db.cpp \
     src/walletdb.cpp \
     src/qt/clientmodel.cpp \
     src/qt/guiutil.cpp \
