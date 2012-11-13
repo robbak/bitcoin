@@ -7,7 +7,7 @@
 
 #include "base58.h"
 #include "bitcoinrpc.h"
-#include bitcoin-db.h
+#include "bitcoin-db.h"
 #include "init.h"
 #include "main.h"
 #include "net.h"
