@@ -5,7 +5,7 @@
 
 #include "alert.h"
 #include "checkpoints.h"
-#include "db.h"
+#include bitcoin-db.h
 #include "txdb.h"
 #include "net.h"
 #include "init.h"

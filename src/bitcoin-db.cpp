@@ -3,7 +3,7 @@
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#include "db.h"
+#include bitcoin-db.h
 #include "util.h"
 #include "main.h"
 #include <boost/version.hpp>

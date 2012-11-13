@@ -147,7 +147,7 @@ HEADERS += src/qt/bitcoingui.h \
     src/main.h \
     src/net.h \
     src/key.h \
-    src/db.h \
+    src/bitcoin-db.h \
     src/walletdb.h \
     src/script.h \
     src/init.h \
